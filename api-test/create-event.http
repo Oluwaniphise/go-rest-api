@@ -1,0 +1,12 @@
+POST http://localhost:8080/events
+Content-Type: application/json
+
+{
+    "name": "Python Event",
+    "description": "Angular event at berlin",
+    "location": "Tokyo",
+    "dateTime": "2026-01-01T15:30:00.000Z"
+}
+
+
+
