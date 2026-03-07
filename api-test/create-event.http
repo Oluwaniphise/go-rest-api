@@ -1,8 +1,9 @@
 POST http://localhost:8080/events
 Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3Q3QGV4YW1wbGUuY29tIiwiZXhwIjoxNzcyOTMxMzM2LCJ1c2VySWQiOjJ9.5TETyyy2SPJAdrEr6ZAOcI9Pe5I1gDkMYRga9mP-ehM
 
 {
-    "name": "Python Event",
+    "name": "Angular 24 Event",
     "description": "Angular event at berlin",
     "location": "Tokyo",
     "dateTime": "2026-01-01T15:30:00.000Z"
